@@ -77,7 +77,7 @@ http://localhost:3000
 
 ## Repository GitHub
 
-https://github.com/username/data-mahasiswa
+https://github.com/labibatsabita/data-mahasiswa.git
 
 ## Link Deploy
 
