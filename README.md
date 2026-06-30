@@ -54,7 +54,7 @@ Aplikasi Data Mahasiswa berbasis Node.js dan Express yang digunakan untuk mengel
 1. Clone repository
 
 ```bash
-git clone https://github.com/username/data-mahasiswa.git
+git clone https://github.com/labibatsabita/data-mahasiswa.git
 ```
 
 2. Install dependency
